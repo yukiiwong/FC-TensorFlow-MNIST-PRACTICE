@@ -25,9 +25,9 @@ help you to impove the accuracy.
 
 ![0](https://github.com/yukiiwong/FC-TensorFlow-MNIST-PRACTICE/blob/master/SAMPLE/0/10.bmp)![6](https://github.com/yukiiwong/FC-TensorFlow-MNIST-PRACTICE/blob/master/SAMPLE/1/12.bmp)![6](https://github.com/yukiiwong/FC-TensorFlow-MNIST-PRACTICE/blob/master/SAMPLE/6/3.bmp)
 
-I put part of the data source in the SAMPLE folder. You will find that they are all white on black.
+I put part of the data source in the SAMPLE folder. You will find that they are all white on black. 
 
-I used the drawing in Windows to draw the picture below. In order to improve the recognition, I painted the background of the picture as black.
+Besides, I used the drawing in Windows to draw the picture below. In order to improve the recognition, I painted the background of the picture as black.
 And the image is expanded and etched by the Opencv library in Python.
 ![3](https://github.com/yukiiwong/FC-TensorFlow-MNIST-PRACTICE/blob/master/1.jpg)
 
