@@ -22,5 +22,10 @@ def reconstruct_image():
 You can run this function to unzip the souce MNIST data, and convert the numbers to a 28*28 .bmp file.It can
 help you to impove the accuracy.
 
+I put part of the data source in the SAMPLE folder. You will find that they are all white on black.
+
+I used the drawing in Windows to draw the picture below. In order to improve the recognition, I painted the background of the picture as black.
+And the image is expanded and etched by the Opencv library in Python.
+![3](https://github.com/yukiiwong/FC-TensorFlow-MNIST-PRACTICE/blob/master/1.jpg)
 
 reference: Peter_Chan in Bilibili, TensorFlow系列教程(2)——手写数字的识别
