@@ -21,3 +21,6 @@ def reconstruct_image():
 ```
 You can run this function to unzip the souce MNIST data, and convert the numbers to a 28*28 .bmp file.It can
 help you to impove the accuracy.
+
+
+reference: Peter_Chan in Bilibili, TensorFlow系列教程(2)——手写数字的识别
