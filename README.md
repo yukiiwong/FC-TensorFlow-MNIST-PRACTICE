@@ -31,6 +31,8 @@ I used the drawing in Windows to draw the picture below. In order to improve the
 And the image is expanded and etched by the Opencv library in Python.
 ![3](https://github.com/yukiiwong/FC-TensorFlow-MNIST-PRACTICE/blob/master/1.jpg)
 
-### The files checkpoint, mnist.ckpt.data-00000-of-00001, mnist.ckpt.index and mnist.ckpt.meta are a FC nerual network that I have trained for 3000 times. And its accuracy is 0.953. The same situation is that also has a very pool recognition of number 6.Put these files in the same path to run the fcnn.py file. You can save nearly 45 minutes.
+### The files checkpoint, mnist.ckpt.data-00000-of-00001, mnist.ckpt.index and mnist.ckpt.meta are a FC nerual network that I have trained for 3000 times. And its accuracy is 0.953. The same situation is that, it also has a very pool recognition of number 6.
+
+### Put these files in the same path to run the fcnn.py file. You can save nearly 45 minutes.
 
 reference: Peter_Chan in Bilibili, TensorFlow系列教程(2)——手写数字的识别
