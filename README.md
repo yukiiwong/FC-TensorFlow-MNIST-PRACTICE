@@ -18,6 +18,6 @@ def reconstruct_image():
         img = Image.fromarray(np.reshape(np.array(x_data[0] * 255, dtype = 'uint8'), newshape = (28,28)))#将图片的格式转化成Image能用的格式
         dir = np.argmax(y_data[0])
         img.save('./SAMPLE/{}/{}.bmp'.format(dir, i))
-        ```
+```
 You can run this function to unzip the souce MNIST data, and convert the numbers to a 28*28 .bmp file.It can
 help you to impove the accuracy.
