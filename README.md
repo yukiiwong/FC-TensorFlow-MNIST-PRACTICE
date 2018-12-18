@@ -36,5 +36,7 @@ And the image is expanded and etched by the Opencv library in Python.
 ### Put these files in the same path to run the fcnn.py file. You can save nearly 45 minutes.
 
 reference: Peter_Chan in Bilibili, TensorFlow系列教程(2)——手写数字的识别
+
            https://docs.opencv.org/4.0.0/
+           
            https://tensorflow.google.cn/
